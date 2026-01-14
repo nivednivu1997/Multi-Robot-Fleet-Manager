@@ -52,11 +52,11 @@ This architecture closely resembles **industrial AMR fleet managers** used in wa
 
 ## ▶️ How to Run
 
-### 1️ Launch the multi-robot simulation
+###  Launch the multi-robot simulation
 ```bash
 ros2 launch turtlebot3_multi_robot multi_robot.launch.py
 ```
-### 2 Run python Ros2 node
+###  Run python Ros2 node
 ```bash
 python3 multi_robot_fleet_manager.py
 ```
