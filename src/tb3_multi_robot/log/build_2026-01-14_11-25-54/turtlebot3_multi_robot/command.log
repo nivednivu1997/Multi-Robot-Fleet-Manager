@@ -1,0 +1,6 @@
+Invoking command in '/home/thedush/tb3_multi_robot/build/turtlebot3_multi_robot': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/thedush/tb3_multi_robot -DCMAKE_INSTALL_PREFIX=/home/thedush/tb3_multi_robot/install/turtlebot3_multi_robot
+Invoked command in '/home/thedush/tb3_multi_robot/build/turtlebot3_multi_robot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/thedush/tb3_multi_robot -DCMAKE_INSTALL_PREFIX=/home/thedush/tb3_multi_robot/install/turtlebot3_multi_robot
+Invoking command in '/home/thedush/tb3_multi_robot/build/turtlebot3_multi_robot': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/thedush/tb3_multi_robot/build/turtlebot3_multi_robot -- -j8 -l8
+Invoked command in '/home/thedush/tb3_multi_robot/build/turtlebot3_multi_robot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/thedush/tb3_multi_robot/build/turtlebot3_multi_robot -- -j8 -l8
+Invoking command in '/home/thedush/tb3_multi_robot/build/turtlebot3_multi_robot': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/thedush/tb3_multi_robot/build/turtlebot3_multi_robot
+Invoked command in '/home/thedush/tb3_multi_robot/build/turtlebot3_multi_robot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/thedush/tb3_multi_robot/build/turtlebot3_multi_robot
