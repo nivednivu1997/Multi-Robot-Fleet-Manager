@@ -56,7 +56,7 @@ This architecture closely resembles **industrial AMR fleet managers** used in wa
 ```bash
 ros2 launch turtlebot3_multi_robot multi_robot.launch.py
 ```
-
+### 1️⃣ Run python Ros2 node
 ```bash
 python3 multi_robot_fleet_manager.py
 ```
